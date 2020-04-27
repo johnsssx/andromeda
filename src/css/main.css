@@ -1,0 +1,121 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+.colorx
+{
+    width: 100%;
+    height: 250px;
+    background: #28D6CB;
+}
+
+.colorx h2
+{
+    color: #fff;
+    font-size: 45px;
+    font-family:monospace;
+    position: relative;
+    /* left: 35%; */
+    text-align: center; 
+    bottom: -45%;
+    cursor: pointer;
+}
+
+.colory img
+{
+    width: 1200px;
+    height: auto;
+    cursor: pointer;
+    margin: auto;
+    margin-bottom: 10px;
+
+}
+
+.colory
+{
+    width:1200px;
+    height: auto;
+    background: #fff;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.colory h3
+{
+    padding: 10px;
+    margin: 10px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.colory p
+{
+    padding: 10px;
+    margin: 10px;
+    background: #F3F3F3;
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+}
+ .colory samp
+ {
+ 
+     background: #28D6CB;
+     font-size: 16px;
+     color: #fff;
+ }
+
+ .colory samp kbd
+ {
+     background: #000;
+     color: #fff;
+     padding: 1px;
+     margin: 1px;
+ }
+
+ .colory .vidio video
+ {
+     margin-top: 10px;
+     width: 700px;
+     height: auto;
+     position: relative;
+     margin-left: 20%;
+ }
+
+footer .fot
+{
+    width: 100%;
+    height: auto;
+    background: #28D6CB;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+footer .fot .item
+{
+    margin: 5px;
+    padding: 5px;
+    color: #fff;
+    float: left;
+}
+
+.item img
+{
+    width: 400px;
+    height: auto;
+    margin: 5px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.item #ip
+{
+    width: px;
+    height: auto;
+    margin: 5px;
+    padding: 5px;
+}
